@@ -49,7 +49,7 @@ Este repositório será o palco para a aplicação prática dos meus estudos. Os
 Para oportunidades de colaboração, dúvidas ou propostas de trabalho, sinta-se à vontade para entrar em contato:
 
 *   **E-mail:** jessyferreirateixeira@gmail.com
-*   **LinkedIn:** (Adicionar link do LinkedIn aqui)
+*   **LinkedIn:** www.linkedin.com/in/jéssica-ferreira-teixeira-a5225120b
 
 ---
 *Última Atualização: Dezembro de 2025*
