@@ -22,7 +22,8 @@ Minhas competências são a base para uma atuação eficaz no ciclo de vida do d
 Minha base de conhecimento está sendo construída através de formação acadêmica e cursos especializados, com foco em tecnologias e metodologias modernas de QA e Desenvolvimento.
 
 ### Formação Acadêmica
-*   **Análise e Desenvolvimento de Sistemas** - Unicesumar (Início: Setembro 2025)
+*   **Análise e Desenvolvimento de Sistemas** - Uninter (Início: 02 de Fevereiro de 2026)
+*   **Curso de Inglês** - Uninter (Duração: 1 ano)
 
 ### Cursos e Certificações (Alura, Udemy)
 | Formação/Curso | Duração | Status | Foco |
