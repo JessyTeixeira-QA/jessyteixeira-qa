@@ -47,11 +47,11 @@ Minha base de conhecimento está sendo construída através de formação acadê
 ### 📜 Cursos e Certificações (Alura, Udemy)
 | Formação/Curso | Duração | Status |
 | :--- | :---  | :---  |
-| **Carreira QA: processos e automação de testes** | 52h | Concluído |
+| **Carreira QA: processos e automação de testes** | 52h | Concluido |
 | **Avançando em Cypress e Integração Contínua** | 64h | Em Andamento |
-| **Testes Automáticos + Curso Completo de Teste** | 5h | Concluído |
+| **Testes Automáticos + Curso Completo de Teste** | 5h | Concluido |
 | **Começando em DevOps (Linux CLI)** | 33h | Concluído  |
-| **A partir do zero: iniciante em programação** | 31h | Concluído |
+| **A partir do zero: iniciante em programação** | 31h | Concluido |
 | **Engenharia de IA** | - | Em Andamento |
 
 ---
