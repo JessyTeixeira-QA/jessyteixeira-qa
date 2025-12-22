@@ -1,18 +1,18 @@
-# 👩‍💻 JessyTeixeira-QA: Portfólio de Qualidade de Software (QA)
+# 👩‍💻 JessyTeixeira-QA: Software Quality Portfolio (QA)
 
-Bem-vindo(a) ao meu espaço dedicado à **Qualidade de Software (Quality Assurance - QA)**. Este repositório serve como um portfólio dinâmico, documentando minha jornada de transição de carreira e a aplicação prática de conhecimentos em testes, automação e processos de desenvolvimento.
-
----
-
-## 🚀 Sobre Mim
-
-Sou **Jéssica Ferreira Teixeira**, uma profissional proativa e organizada em transição de carreira para a área de Quality Assurance. Minha experiência anterior em rotinas administrativas e atendimento ao cliente me proporcionou um forte **senso de responsabilidade** e **atenção aos detalhes**, habilidades que agora aplico na prevenção de falhas e na promoção da estabilidade de softwares.
-
-Busco ativamente o **aprendizado contínuo** e possuo **comunicação assertiva**, com o objetivo de contribuir diretamente para a eficiência operacional e a satisfação do usuário final.
+Welcome to my space dedicated to **Software Quality Assurance (QA)**. This repository serves as a dynamic portfolio, documenting my career transition journey and the practical application of my knowledge in testing, automation, and development processes.
 
 ---
 
-## 💻 Idiomas e Ferramentas
+## 🚀 About Me
+
+I am **Jéssica Ferreira Teixeira**, a proactive and organized professional transitioning into the Quality Assurance field. My previous experience in administrative routines and customer service has provided me with a strong **sense of responsibility** and **attention to detail**—skills I now apply to defect prevention and promoting software stability.
+
+I actively seek **continuous learning** and possess **assertive communication** skills, aiming to contribute directly to operational efficiency and end-user satisfaction.
+
+---
+
+## 💻 Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -25,53 +25,53 @@ Busco ativamente o **aprendizado contínuo** e possuo **comunicação assertiva*
 
 ---
 
-## 🛠️ Competências Técnicas e Comportamentais
+## 🛠️ Technical and Behavioral Skills
 
-Minhas competências são a base para uma atuação eficaz no ciclo de vida do desenvolvimento de software:
+My competencies form the foundation for effective performance throughout the software development life cycle:
 
-| Categoria | Competências Chave |
+| Category | Key Competencies |
 | :--- | :--- |
-| **Técnicas (Hard Skills)** | Testes de Software, Automação de Testes, Conceitos de DevOps, Lógica de Programação, Gestão de Estoques, SAP, Excel e Power BI. |
-| **Comportamentais (Soft Skills)** | Atenção aos Detalhes, Proatividade, Aprendizado Rápido, Organização, Resolução de Problemas, Relacionamento Interpessoal. |
+| **Technical (Hard Skills)** | Software Testing, Test Automation, DevOps Concepts, Programming Logic, Inventory Management, SAP, Excel, and Power BI. |
+| **Behavioral (Soft Skills)** | Attention to Detail, Proactivity, Fast Learner, Organization, Problem Solving, Interpersonal Relationships. |
 
 ---
 
-## 📚 Jornada de Aprendizagem
+## 📚 Learning Journey
 
-Minha base de conhecimento está sendo construída através de formação acadêmica e cursos especializados.
+My knowledge base is built through academic background and specialized courses.
 
-### 🎓 Formação Acadêmica
-*   **Análise e Desenvolvimento de Sistemas** - Uninter (Início: 02/02/2026)
-*   **Curso de Inglês** - Uninter (Duração: 1 ano)
+### 🎓 Academic Background
+* **Systems Analysis and Development** - Uninter (Start: Feb 02, 2026)
+* **English Language Course** - Uninter (Duration: 1 year)
 
-### 📜 Cursos e Certificações (Alura, Udemy)
-| Formação/Curso | Duração | Status |
-| :--- | :---  | :---  |
-| **Carreira QA: processos e automação de testes** | 52h | Concluido |
-| **Avançando em Cypress e Integração Contínua** | 64h | Em Andamento |
-| **Testes Automáticos + Curso Completo de Teste** | 5h | Concluido |
-| **Começando em DevOps (Linux CLI)** | 33h | Concluído  |
-| **A partir do zero: iniciante em programação** | 31h | Concluido |
-| **Engenharia de IA** | - | Em Andamento |
-
----
-
-## 🗺️ Projetos Futuros
-
-Este repositório será o palco para a aplicação prática dos meus estudos:
-
-*   **🧪 Automação de Testes:** Implementação de testes com Cypress e Selenium.
-*   **📝 Testes Manuais:** Documentação de planos de teste e relatórios de bugs.
-*   **⚙️ CI/CD:** Configuração de pipelines para execução automática de testes.
+### 📜 Courses and Certifications (Alura, Udemy)
+| Training/Course | Duration | Status |
+| :--- | :--- | :--- |
+| **QA Career: Processes and Test Automation** | 52h | Completed |
+| **Advancing in Cypress and Continuous Integration** | 64h | In Progress |
+| **Automated Testing + Full Testing Course** | 5h | Completed |
+| **Getting Started in DevOps (Linux CLI)** | 33h | Completed |
+| **From Zero: Programming Beginner** | 31h | Completed |
+| **AI Engineering** | - | In Progress |
 
 ---
 
-## 📧 Contato
+## 🗺️ Future Projects
 
-Para oportunidades de colaboração ou propostas de trabalho:
+This repository will be the stage for the practical application of my studies:
+
+* **🧪 Test Automation:** Implementation of tests using Cypress and Selenium.
+* **📝 Manual Testing:** Documentation of test plans and bug reports.
+* **⚙️ CI/CD:** Configuring pipelines for automatic test execution.
+
+---
+
+## 📧 Contact
+
+For collaboration opportunities or job proposals:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessyferreirateixeira@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jéssica-ferreira-teixeira-a5225120b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9ssica-ferreira-teixeira-a5225120b)
 
 ---
-*Última Atualização: Dezembro de 2025*
+*Last Updated: December 2025*
