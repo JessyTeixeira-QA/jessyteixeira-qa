@@ -42,7 +42,7 @@ My knowledge base is built through academic background and specialized courses.
 
 ### 🎓 Academic Background
 * **Systems Analysis and Development** - Uninter (Start: Feb 02, 2026)
-* **English Language Course** - Uninter (Duration: 1 year)
+* **English Language Course** - Uninter (Start: Feb 02, 2026; Duration: 1 year)
 
 ### 📜 Courses and Certifications (Alura, Udemy)
 | Training/Course | Duration | Status |
