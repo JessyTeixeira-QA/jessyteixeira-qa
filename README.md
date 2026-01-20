@@ -31,7 +31,7 @@ My competencies form the foundation for effective performance throughout the sof
 
 | Category | Key Competencies |
 | :--- | :--- |
-| **Technical (Hard Skills)** | Software Testing, Test Automation, DevOps Concepts, Programming Logic, Inventory Management, SAP, Excel, and Power BI. |
+| **Technical (Hard Skills)** | Software Testing, Test Automation, DevOps Concepts, Programming Logic, Inventory Management, SAP and Excel. |
 | **Behavioral (Soft Skills)** | Attention to Detail, Proactivity, Fast Learner, Organization, Problem Solving, Interpersonal Relationships. |
 
 ---
